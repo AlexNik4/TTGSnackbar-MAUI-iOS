@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>TTGSnackbar-Net6</id>
+        <version>1.0.0</version>
+        <title>TTGSnackbar Net6 iOS</title>
+        <authors>Alex Nikolayev</authors>
+        <projectUrl>https://github.com/AlexNik4/TTGSnackbar-MAUI-iOS</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>An Android snackbar look a like made for Net6-iOS</description>
+    </metadata>
+    <files>
+        <file src="bin\Release\TTGSnackbar.dll" target="lib\Xamarin.iOS10\TTGSnackbar.dll" />
+    </files>
+</package>
